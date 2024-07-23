@@ -1,0 +1,3 @@
+- Learn Next Js (Done)
+- Complete a capstone project
+- Develop a Dapp
